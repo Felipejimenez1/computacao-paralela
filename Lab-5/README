@@ -1,0 +1,8 @@
+
+Aluno: Felipe Jimenez Clauzet 
+TIA: 41924711
+
+Exercicio:  LAB 5 - Paralelismo e arrays
+1)  Crie um programa em C que multiplica todos os elementos de um array por 4 ou por um valor fornecido pelo usuÃ¡rio;
+
+Utilizado memoria compartilhada entre pai e filho para manipular o array de forma mais eficiente
